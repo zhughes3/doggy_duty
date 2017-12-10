@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="title_activity_map_view">MapView</string>
+    <string name="record">Record</string>
+    <string name="shortestPath">Shortest Path</string>
+    <string name="directions"></string>
+</resources>
